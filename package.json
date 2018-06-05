@@ -1,7 +1,7 @@
 {
   "name": "allig-amazon-cognito-identity-js",
   "description": "amazon-cognito-identity-js for allig",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/uorai/amazon-cognito-identity-js.git"
